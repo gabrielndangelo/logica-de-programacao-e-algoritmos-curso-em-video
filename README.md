@@ -25,6 +25,7 @@ Essa metodologia prioriza retenção e raciocínio autônomo sobre velocidade de
 📂 Estrutura do repositório
 
 /
+|_  exercicios_propostos
 ├── passo_1_sequencias-basicas/
 ├── passo_2_condicoes-basicas/
 ├── passo_3_-condicoes-compostas/
@@ -106,6 +107,7 @@ This method prioritizes retention and independent reasoning over speed of progre
 📂 Repository structure
 
 /
+|_ exercicios_propostos
 ├── passo_1_sequencias-basicas/
 ├── passo_2_condicoes-basicas/
 ├── passo_3_-condicoes-compostas/
