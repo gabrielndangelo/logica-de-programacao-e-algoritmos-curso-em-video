@@ -1,4 +1,4 @@
-                       # LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - CURSO INTRODUTÓRIO #
+                       # LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - CURSO INTRODUTÓRIO 
 
 🇧🇷 Português | 🇺🇸 English
 
@@ -48,7 +48,18 @@ Isso preserva a correspondência direta com a lista oficial de exercícios, faci
 
 📈 Progresso
 
-PassoConteúdoStatus1Sequências básicas✅ Concluído2Condições básicas✅ Concluído3Condições compostas✅ Concluído4Estruturas de repetição 1✅ Concluído5Repetição 2✅ Concluído6Repetição com faca...enquanto✅ Concluído7Repetição com para✅ Concluído8Procedimentos✅ Concluído9Funções✅ Concluído9 (extra)Funções 2 — manipulação (extra)✅ Concluído10Vetores🔄 Em andamento
+Passo          Conteúdo               Status 
+1           Sequências básicas      ✅ Concluído
+2           Condições básicas       ✅ Concluído
+3          Condições compostas      ✅ Concluído
+4        Estruturas de repetição 1  ✅ Concluído
+5              Repetição 2          ✅ Concluído
+6   Repetição com faca...enquanto   ✅ Concluído
+7      Repetição com para           ✅ Concluído
+8        Procedimentos              ✅ Concluído
+9           Funções                 ✅ Concluído
+9 (extra)Funções 2 — manipulação (extra)✅ Concluído
+10       Vetores                   🔄 Em andamento
 
 🛠️ Ferramentas
 
