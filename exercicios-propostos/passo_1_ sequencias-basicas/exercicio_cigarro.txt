@@ -1,0 +1,23 @@
+
+
+1 cigarro = 10min de vida
+perdidos
+
+Quantos cigarros a pessoa
+fumou à vida inteira?
+
+Por exemplo = 20 anos fumando
+20 anos = 7300 dias
+365 x 4 = 1.460 (4 cigarros
+por dia)
+1.460 x 20 = 29.200cigarros
+
+1 dia = 1.440 minutos (60.24)
+
+cada cigarro = 10 minutos
+29.200 . 10 = 292.000
+292.000 minutos / 1.440
+203 dias
+
+
+

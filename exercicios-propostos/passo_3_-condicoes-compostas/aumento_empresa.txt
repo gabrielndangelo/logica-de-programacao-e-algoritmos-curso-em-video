@@ -1,0 +1,29 @@
+
+nome: caractere
+t, s, novo_s: inteiro
+
+Inicio
+Escreval ("--------------------------------------------")
+Escreval ("       ENTERPRISE BUSINESS COMPANY          ")
+Escreval ("--------------------------------------------")
+Escreval ("SEU NOME: ")
+Leia (nome)
+Escreval ("TEMPO DE SERVIÇO: ")
+Leia (t)
+Escreval ("SALÁRIO: ")
+Leia (s)
+       se (t<=3) entao
+       novo_s <- (s/100)*3
+       Escreval ("VOCÊ TEM ",t," ANOS DE EMPRESA, PORTANTO, SEU NOVO SALÁRIO É DE R$ ",novo_s)
+           senao
+           se (t>=3) e (t<=10) entao
+           novo_s <- (s/100)*12,5
+           Escreval ("VOCÊ TEM ",t," ANOS DE EMPRESA, PORTANTO, SEU NOVO SALÁRIO É DE R$ ",novo_s)  
+                 senao
+                 se (t>10) entao
+                 novo_s <- (s/100)*20
+                 Escreval ("VOCÊ TEM ",t," ANOS DE EMPRESA, PORTANTO, SEU NOVO SALÁRIO É DE R$ ",novo_s)  
+            fimse
+          fimse
+       fimse
+FimAlgoritmo
